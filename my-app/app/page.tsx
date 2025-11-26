@@ -7,7 +7,7 @@ export default function Home() {
       <Navbar />
 
       <main className="mx-auto flex w-full max-w-6xl flex-col gap-10 px-4 pb-24 pt-28 sm:px-8">
-        {/* Hero section */}
+        {/* Hero section */}`~
         <section className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
           <div className="space-y-4">
             <p className="inline-flex items-center gap-2 rounded-full border border-emerald-500/40 bg-emerald-500/10 px-3 py-1 text-xs font-medium uppercase tracking-wide text-emerald-300">
@@ -62,7 +62,7 @@ export default function Home() {
                 €139,98
               </span>
             </div>
-            <button className="mt-2 w-full rounded-xl bg-emerald-500 px-4 py-2.5 text-sm font-semibold text-zinc-950 shadow-lg shadow-emerald-500/30 transition hover:-translate-y-0.5 hover:bg-emerald-400">
+            <button className="mt-2 cursor-pointer w-full rounded-xl bg-emerald-500 px-4 py-2.5 text-sm font-semibold text-zinc-950 shadow-lg shadow-emerald-500/30 transition hover:-translate-y-0.5 hover:bg-emerald-400">
               Checkout
             </button>
           </div>

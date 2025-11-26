@@ -86,4 +86,14 @@ export const game: Games[] = [
     cover:
       "https://images.pexels.com/photos/9071715/pexels-photo-9071715.jpeg?auto=compress&cs=tinysrgb&w=1200"
   },
+  {
+    id: 9,
+    title: "EA FC26",
+    subtitle: "Legendary edition",
+    genre: "Sport",
+    platform: "PS5",
+    price: "€59,99",
+    cover:
+    "https://st2.depositphotos.com/3725083/5374/i/450/depositphotos_53743487-Football-stadium.jpg"
+  },
 ];
